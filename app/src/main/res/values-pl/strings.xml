@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L10_Piwowarski_62024_Game15</string>
+    <string name="txtNumberOfColumns">Liczba Kolumn:</string>
+    <string name="txtNumberOfRow">Liczba Rzędów:</string>
+    <string name="txtDeveloper">Piwowarski 15 Łamigłówka</string>
+    <string name="btnNewGame">Nowa Gra</string>
+    <string name="txtScore">Wynik:</string>
+    <string name="txtCurrentMove">Obecny Ruch:</string>
+</resources>

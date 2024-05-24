@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L10_Piwowarski_62024_Game15</string>
+    <string name="txtNumberOfColumns">Number of Columns:</string>
+    <string name="txtNumberOfRow">Number of Rows:</string>
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="txtDeveloper">Piwowarski 15 Puzzle Game</string>
+    <string name="btnNewGame">New Game</string>
+    <string name="txtScore">Score:</string>
+    <string name="txtCurrentMove">Current Move:</string>
+</resources>
